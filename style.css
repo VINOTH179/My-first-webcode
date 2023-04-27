@@ -1,0 +1,43 @@
+.container-fluid{
+    text-align: center;
+    background-color:rgb(250, 240, 177);
+    height: 30%;
+    padding-left: 5px;
+    color: white;
+   font-family:"Fugaz One";
+   background-image: linear-gradient(to left,rgb(220, 229, 194),rgb(35, 193, 221));
+}
+.result{
+    display: none;
+    background-image: linear-gradient(to left,rgb(129, 213, 240),rgb(73, 232, 161));
+}
+#btn{
+    height: 30px;
+    text-align: center;
+    border-radius: 5px;
+    font-family:Arial, Helvetica, sans-serif;
+    background-image: linear-gradient(to left,rgb(34, 238, 7),rgb(126, 248, 235)); 
+}
+#resetbtn{
+    height: 30px;
+    border-radius: 5px;
+    background-image: linear-gradient(to left,rgb(240, 13, 13),rgb(213, 211, 210)); 
+
+}
+#searchtext{
+    display: inline-block;
+    border-radius: 20px;
+    background-image: linear-gradient(to left,rgb(62, 158, 180),rgb(162, 244, 159)); 
+}
+
+
+.container{
+    color:black;
+    display: inline-block;
+    height: 500px;
+    width: 300px;
+    
+}
+body{
+    background-image: linear-gradient(to left,rgb(196, 199, 111),rgb(106, 227, 179));    
+}
